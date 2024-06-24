@@ -1,6 +1,7 @@
 {
   "name": "goals-achiever-react",
   "type": "module",
+  "homepage": "https://ordila.github.io/task_pro/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
